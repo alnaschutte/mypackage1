@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mypackage1
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/alnaschutte/nypackage1 - test.git
+Author: Alna Schutte
+Author-email: schuttealna@gmail.com
+License: MIT
+Platform: UNKNOWN
+
+# mypackage
+This library was created as an example of how to publish your own Python package
+
+# How to install
+
+
